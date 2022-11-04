@@ -1,0 +1,1153 @@
+[
+  {
+    "hotel": "DG2023",
+    "hotel_name": "Spring Hotel Bitácora",
+    "hotel_description": "",
+    "products": [
+      {
+        "room": "D",
+        "boardtypes": [
+          {
+            "boardtype": "HD",
+            "boardtype_text": "bed & breakfast",
+            "offertext": "PKG",
+            "pricewithoffer": 776.16,
+            "pricewithoutoffer": 980.0,
+            "availability": 12,
+            "id": "DG2023-D-HD-PKG-5",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 776.16,
+              "amount_before_tax": 776.16,
+              "amount_offer_applied": -203.84,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "D",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "TI",
+            "boardtype_text": "All Inclusive",
+            "offertext": "PKG",
+            "pricewithoffer": 1441.44,
+            "pricewithoutoffer": 1820.0,
+            "availability": 12,
+            "id": "DG2023-D-TI-PKG-35",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 1441.44,
+              "amount_before_tax": 1441.44,
+              "amount_offer_applied": -378.56,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "D",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          }
+        ],
+        "images_room": [
+          "https://apibooking.springhoteles.com/media/1026/D/FRESH_01.jpg",
+          "https://apibooking.springhoteles.com/media/1026/D/FRESH_02.jpg"
+        ],
+        "images_carousel": [],
+        "translation_code": "D",
+        "room_title": "Double Standard room",
+        "room_description": "Spacious rooms newly refurbished in 2016:  Balcony  32\u201d Satellite TV Air conditioning Air dryer Empty minibar MP (\u20ac) (Incl.in AI) Safe (\u20ac) Amenities Pool towels (\u20ac) (included in AI) Bathrobe and slippers (\u20ac) WIFI Maximum occupancy (4 pax):  2 adults + 2 children until 12 years old 3 adults + 1 child Babies included in maximum occupancy"
+      },
+      {
+        "room": "DV",
+        "boardtypes": [
+          {
+            "boardtype": "HD",
+            "boardtype_text": "bed & breakfast",
+            "offertext": "PKG",
+            "pricewithoffer": 887.04,
+            "pricewithoutoffer": 1120.0,
+            "availability": 11,
+            "id": "DG2023-DV-HD-PKG-12",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 887.04,
+              "amount_before_tax": 887.04,
+              "amount_offer_applied": -232.96,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "DV",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "PKG",
+            "pricewithoffer": 997.92,
+            "pricewithoutoffer": 1260.0,
+            "availability": 11,
+            "id": "DG2023-DV-MP-PKG-21",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 997.92,
+              "amount_before_tax": 997.92,
+              "amount_offer_applied": -262.08,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "DV",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "TI",
+            "boardtype_text": "All Inclusive",
+            "offertext": "PKG",
+            "pricewithoffer": 1552.32,
+            "pricewithoutoffer": 1960.0,
+            "availability": 11,
+            "id": "DG2023-DV-TI-PKG-40",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 1552.32,
+              "amount_before_tax": 1552.32,
+              "amount_offer_applied": -407.68,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "DV",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          }
+        ],
+        "images_room": [
+          "https://apibooking.springhoteles.com/media/1026/DV/FRESH_01.jpg",
+          "https://apibooking.springhoteles.com/media/1026/DV/FRESH_03.jpg",
+          "https://apibooking.springhoteles.com/media/1026/DV/FRESH_POOL_VIEW_3.jpg"
+        ],
+        "images_carousel": [],
+        "translation_code": "DV",
+        "room_title": "Pool view double room",
+        "room_description": "Spacious rooms newly refurbished in 2016:  Balcony  32\u201d Satellite TV Air conditioning Air dryer Empty minibar MP (\u20ac) (Incl.in AI) Safe  Amenities Pool towels (\u20ac) (included in AI) Bathrobe and slippers  WIFI Maximum occupancy (4 pax):  2 adults + 2 children until 12 years old 3 adults + 1 child Babies included in maximum occupancy"
+      },
+      {
+        "room": "OCEAN",
+        "boardtypes": [
+          {
+            "boardtype": "HD",
+            "boardtype_text": "bed & breakfast",
+            "offertext": "PKG",
+            "pricewithoffer": 997.92,
+            "pricewithoutoffer": 1260.0,
+            "availability": 5,
+            "id": "DG2023-OCEAN-HD-PKG-22",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 997.92,
+              "amount_before_tax": 997.92,
+              "amount_offer_applied": -262.08,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "OCEAN",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "PKG",
+            "pricewithoffer": 1108.8,
+            "pricewithoutoffer": 1400.0,
+            "availability": 5,
+            "id": "DG2023-OCEAN-MP-PKG-27",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 1108.8,
+              "amount_before_tax": 1108.8,
+              "amount_offer_applied": -291.2,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "OCEAN",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "TI",
+            "boardtype_text": "All Inclusive",
+            "offertext": "PKG",
+            "pricewithoffer": 1663.2,
+            "pricewithoutoffer": 2100.0,
+            "availability": 5,
+            "id": "DG2023-OCEAN-TI-PKG-46",
+            "hotelcode": "DG2023",
+            "hotel_name": "Spring Hotel Bitácora",
+            "total_price": {
+              "amount_after_tax": 1663.2,
+              "amount_before_tax": 1663.2,
+              "amount_offer_applied": -436.8,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "OCEAN",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          }
+        ],
+        "images_room": [
+          "https://apibooking.springhoteles.com/media/1026/EYT/Diseno_sin_titulo.jpg"
+        ],
+        "images_carousel": [],
+        "translation_code": "OCEAN",
+        "room_title": "Ocean room",
+        "room_description": "Spacious rooms newly refurbished in 2016:  Balcony  32\u201d Satellite TV Air conditioning Air dryer Empty minibar MP (\u20ac) (Incl.in AI) Safe (\u20ac) Amenities Pool towels (\u20ac) (included in AI) Bathrobe and slippers (\u20ac) WIFI Maximum occupancy (4 pax):  2 adults + 2 children until 12 years old 3 adults + 1 child Babies included in maximum occupancy"
+      }
+    ],
+    "time": 0.4,
+    "provider": "DINGUS"
+  },
+  {
+    "hotel": "DG2029",
+    "hotel_name": "Spring Arona Gran Hotel & Spa",
+    "description": "",
+    "products": [
+      {
+        "room": "UP",
+        "boardtypes": [
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-P-ES",
+            "pricewithoffer": 1256.5,
+            "pricewithoutoffer": 1738.8,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-P-ES-104",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1256.5,
+              "amount_before_tax": 1256.5,
+              "amount_offer_applied": -482.3,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "Special offer Canarian Residents",
+            "pricewithoffer": 1256.5,
+            "pricewithoutoffer": 1738.8,
+            "availability": 7,
+            "id": "DG2029-UP-PC-TARIFARESIDENTE-105",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1256.5,
+              "amount_before_tax": 1256.5,
+              "amount_offer_applied": -482.3,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "Special offer Canarian Residents"
+            },
+            "room": "UP",
+            "ratecode": "TARIFARESIDENTE",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-P-UK",
+            "pricewithoffer": 1310.96,
+            "pricewithoutoffer": 1814.4,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-P-UK-109",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1310.96,
+              "amount_before_tax": 1310.96,
+              "amount_offer_applied": -503.44,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-P",
+            "pricewithoffer": 1329.3,
+            "pricewithoutoffer": 1839.6,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-P-112",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1329.3,
+              "amount_before_tax": 1329.3,
+              "amount_offer_applied": -510.3,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "PKG-ES",
+            "pricewithoffer": 1330.28,
+            "pricewithoutoffer": 1738.8,
+            "availability": 7,
+            "id": "DG2029-UP-PC-PKG-ES-113",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1330.28,
+              "amount_before_tax": 1330.28,
+              "amount_offer_applied": -408.52,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG-ES"
+            },
+            "room": "UP",
+            "ratecode": "PKG-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "PKG-UK",
+            "pricewithoffer": 1387.96,
+            "pricewithoutoffer": 1814.4,
+            "availability": 7,
+            "id": "DG2029-UP-PC-PKG-UK-117",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1387.96,
+              "amount_before_tax": 1387.96,
+              "amount_offer_applied": -426.44,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG-UK"
+            },
+            "room": "UP",
+            "ratecode": "PKG-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-CLUB-ES",
+            "pricewithoffer": 1403.78,
+            "pricewithoutoffer": 1738.8,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-CLUB-ES-119",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1403.78,
+              "amount_before_tax": 1403.78,
+              "amount_offer_applied": -335.02,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "PKG",
+            "pricewithoffer": 1407.42,
+            "pricewithoutoffer": 1839.6000000000001,
+            "availability": 7,
+            "id": "DG2029-UP-PC-PKG-120",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1407.42,
+              "amount_before_tax": 1407.42,
+              "amount_offer_applied": -432.18,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "UP",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-CLUB-UK",
+            "pricewithoffer": 1465.1,
+            "pricewithoutoffer": 1814.3999999999999,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-CLUB-UK-121",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1465.1,
+              "amount_before_tax": 1465.1,
+              "amount_offer_applied": -349.3,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-ES",
+            "pricewithoffer": 1478.12,
+            "pricewithoutoffer": 1738.8,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-ES-122",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1478.12,
+              "amount_before_tax": 1478.12,
+              "amount_offer_applied": -260.68,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-CLUB",
+            "pricewithoffer": 1485.26,
+            "pricewithoutoffer": 1839.6,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-CLUB-123",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1485.26,
+              "amount_before_tax": 1485.26,
+              "amount_offer_applied": -354.34,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB",
+            "pricewithoffer": 1499.4,
+            "pricewithoutoffer": 1764.0,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-124",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1499.4,
+              "amount_before_tax": 1499.4,
+              "amount_offer_applied": -264.6,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB"
+            },
+            "room": "UP",
+            "ratecode": "WEB",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB-UK",
+            "pricewithoffer": 1542.24,
+            "pricewithoutoffer": 1814.4,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB-UK-125",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1542.24,
+              "amount_before_tax": 1542.24,
+              "amount_offer_applied": -272.16,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "PC",
+            "boardtype_text": "Full Board",
+            "offertext": "WEB_BASE",
+            "pricewithoffer": 1563.8,
+            "pricewithoutoffer": 1839.6,
+            "availability": 7,
+            "id": "DG2029-UP-PC-WEB_BASE-126",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1563.8,
+              "amount_before_tax": 1563.8,
+              "amount_offer_applied": -275.8,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB_BASE"
+            },
+            "room": "UP",
+            "ratecode": "WEB_BASE",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-P-ES",
+            "pricewithoffer": 1119.86,
+            "pricewithoutoffer": 1549.8,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-P-ES-86",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1119.86,
+              "amount_before_tax": 1119.86,
+              "amount_offer_applied": -429.94,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "Special offer Canarian Residents",
+            "pricewithoffer": 1119.86,
+            "pricewithoutoffer": 1549.8,
+            "availability": 7,
+            "id": "DG2029-UP-MP-TARIFARESIDENTE-87",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1119.86,
+              "amount_before_tax": 1119.86,
+              "amount_offer_applied": -429.94,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "Special offer Canarian Residents"
+            },
+            "room": "UP",
+            "ratecode": "TARIFARESIDENTE",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-P-UK",
+            "pricewithoffer": 1174.32,
+            "pricewithoutoffer": 1625.3999999999999,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-P-UK-94",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1174.32,
+              "amount_before_tax": 1174.32,
+              "amount_offer_applied": -451.08,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "PKG-ES",
+            "pricewithoffer": 1185.66,
+            "pricewithoutoffer": 1549.8000000000002,
+            "availability": 7,
+            "id": "DG2029-UP-MP-PKG-ES-95",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1185.66,
+              "amount_before_tax": 1185.66,
+              "amount_offer_applied": -364.14,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG-ES"
+            },
+            "room": "UP",
+            "ratecode": "PKG-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-P",
+            "pricewithoffer": 1192.66,
+            "pricewithoutoffer": 1650.6000000000001,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-P-97",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1192.66,
+              "amount_before_tax": 1192.66,
+              "amount_offer_applied": -457.94,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-P"
+            },
+            "room": "UP",
+            "ratecode": "WEB-P",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "PKG-UK",
+            "pricewithoffer": 1243.34,
+            "pricewithoutoffer": 1625.3999999999999,
+            "availability": 7,
+            "id": "DG2029-UP-MP-PKG-UK-102",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1243.34,
+              "amount_before_tax": 1243.34,
+              "amount_offer_applied": -382.06,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG-UK"
+            },
+            "room": "UP",
+            "ratecode": "PKG-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-CLUB-ES",
+            "pricewithoffer": 1251.32,
+            "pricewithoutoffer": 1549.8,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-CLUB-ES-103",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1251.32,
+              "amount_before_tax": 1251.32,
+              "amount_offer_applied": -298.48,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "PKG",
+            "pricewithoffer": 1262.8,
+            "pricewithoutoffer": 1650.6,
+            "availability": 7,
+            "id": "DG2029-UP-MP-PKG-106",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1262.8,
+              "amount_before_tax": 1262.8,
+              "amount_offer_applied": -387.8,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "PKG"
+            },
+            "room": "UP",
+            "ratecode": "PKG",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-CLUB-UK",
+            "pricewithoffer": 1312.64,
+            "pricewithoutoffer": 1625.4,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-CLUB-UK-110",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1312.64,
+              "amount_before_tax": 1312.64,
+              "amount_offer_applied": -312.76,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-ES",
+            "pricewithoffer": 1317.4,
+            "pricewithoutoffer": 1549.8000000000002,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-ES-111",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1317.4,
+              "amount_before_tax": 1317.4,
+              "amount_offer_applied": -232.4,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-ES"
+            },
+            "room": "UP",
+            "ratecode": "WEB-ES",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-CLUB",
+            "pricewithoffer": 1332.8,
+            "pricewithoutoffer": 1650.6,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-CLUB-114",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1332.8,
+              "amount_before_tax": 1332.8,
+              "amount_offer_applied": -317.8,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-CLUB"
+            },
+            "room": "UP",
+            "ratecode": "WEB-CLUB",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB",
+            "pricewithoffer": 1338.68,
+            "pricewithoutoffer": 1575.0,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-115",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1338.68,
+              "amount_before_tax": 1338.68,
+              "amount_offer_applied": -236.32,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB"
+            },
+            "room": "UP",
+            "ratecode": "WEB",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB-UK",
+            "pricewithoffer": 1381.52,
+            "pricewithoutoffer": 1625.4,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB-UK-116",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1381.52,
+              "amount_before_tax": 1381.52,
+              "amount_offer_applied": -243.88,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB-UK"
+            },
+            "room": "UP",
+            "ratecode": "WEB-UK",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          },
+          {
+            "boardtype": "MP",
+            "boardtype_text": "Half Board",
+            "offertext": "WEB_BASE",
+            "pricewithoffer": 1403.08,
+            "pricewithoutoffer": 1650.6,
+            "availability": 7,
+            "id": "DG2029-UP-MP-WEB_BASE-118",
+            "hotelcode": "DG2029",
+            "hotel_name": "Spring Arona Gran Hotel & Spa",
+            "total_price": {
+              "amount_after_tax": 1403.08,
+              "amount_before_tax": 1403.08,
+              "amount_offer_applied": -247.52,
+              "currency_code": "EUR"
+            },
+            "rate": {
+              "expire_date": "2023-05-11",
+              "effective_date": "2023-05-05",
+              "description": "WEB_BASE"
+            },
+            "room": "UP",
+            "ratecode": "WEB_BASE",
+            "rate_type": null,
+            "promotion": "",
+            "currencyid": "EUR",
+            "currencyFormat": "\u20ac",
+            "clubText": "5% Discount",
+            "alternative_rate": false
+          }
+        ],
+        "images_room": [
+          "https://apibooking.springhoteles.com/media/1029/UP/1.jpg",
+          "https://apibooking.springhoteles.com/media/1029/UP/2.jpg",
+          "https://apibooking.springhoteles.com/media/1029/UP/4.jpg"
+        ],
+        "images_carousel": [],
+        "translation_code": "UP",
+        "room_title": "UP! Room (+18)",
+        "room_description": "Double Pool/ Sea View"
+      }
+    ],
+    "time": 0.65,
+    "provider": "DINGUS"
+  }
+]
