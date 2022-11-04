@@ -15,7 +15,7 @@ export default function App() {
 				<Button variant='brandPrimary' onClick={()=>setLogin(!login)}>
 					{login? 'LOGIN' : 'LOGOUT'} 
 				</Button>
-
+			
 				{/* Contenedor responsive para el listado */}
 				<Flex maxW='750px' px='20px'  mx='auto' direction='column' gap='5vh'>
 					{data.map((hotel) => (
