@@ -1,11 +1,10 @@
 import { useState } from 'react'
 import { Flex, Button, Link, Text } from '@chakra-ui/react'
 
-//icons
-
 //comps
 import HotelInfo from './HotelInfo'
 import HotelDesc from './HotelDesc'
+import HotelMap from './HotelMap'
 import RoomComp from './RoomComp'
 
 export default function CardComp({hotel, login}){
@@ -44,9 +43,14 @@ export default function CardComp({hotel, login}){
 			}
 			{/* Desc */}
 			{ tab==='desc' &&
-				<HotelDesc />
+				<HotelDesc hotel={hotel} />
 			}
-			
+
+			{/* Map */}
+			{ tab==='map' &&
+				<HotelMap />
+			}
+
 		</Flex>
 	)
 }
