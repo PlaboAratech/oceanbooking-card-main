@@ -1,5 +1,6 @@
 import { Flex , Button} from '@chakra-ui/react'
 import { useState } from 'react';
+import './App.css'
 
 //comps
 import CardComp from "./components/CardComp";

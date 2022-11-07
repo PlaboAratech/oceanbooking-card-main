@@ -4,7 +4,7 @@ import { Image } from '@chakra-ui/react';
 export default function HotelPics({images}){
 
     return(
-        <Carousel showStatus={false} showThumbs={false}>
+        <Carousel showStatus={false} showThumbs={true}>
             {images?.map((image)=>
                 <Image src={image} />
             )}        

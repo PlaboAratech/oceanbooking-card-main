@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.carousel.carousel-slider .control-arrow {
+  background-color: rgba(0, 0, 0, 0.6);
 }
