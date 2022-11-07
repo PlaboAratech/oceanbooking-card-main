@@ -4,7 +4,7 @@ import App from './App';
 
 import { ChakraProvider } from '@chakra-ui/react'
 import { myTheme } from './myTheme';
-
+import "leaflet/dist/leaflet.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
