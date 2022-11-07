@@ -1,8 +1,6 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 
-export default function  HotelMap() {
-    const position = [51.505, -0.09]
-
+export default function  HotelMap({position}) {
     return(
     //Sacar del hotel prop el nombre y las coordenadas
          <MapContainer center={position} zoom={10} scrollWheelZoom={false} style={{height:'300px', width: '100%'}}>

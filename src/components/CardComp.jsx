@@ -6,10 +6,11 @@ import HotelInfo from './HotelInfo'
 import HotelDesc from './HotelDesc'
 import HotelMap from './HotelMap'
 import RoomComp from './RoomComp'
+import HotelPics from './HotelPics'
 
 export default function CardComp({hotel, login}){
 	const [tab, setTab] =useState('')
-
+console.log(hotel['products'][0]['images_room'])
 	return(
 		<Flex bg='white' borderRadius='4px'   direction='column'  w='100%'
 		border='1px solid #CCD9D6' boxShadow='0 4px 8px 0 rgba(0,0,0,0.15)' gap='10px' >
@@ -48,7 +49,11 @@ export default function CardComp({hotel, login}){
 
 			{/* Map */}
 			{ tab==='map' &&
-				<HotelMap />
+				<HotelMap position={[43.505, -0.09]} />
+			}
+			{/* Pics */}
+			{ tab==='pics' &&
+				<HotelPics images={hotel['products'][0]['images_room']} />
 			}
 
 		</Flex>
