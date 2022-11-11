@@ -1,17 +1,17 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
 import App from './App';
+import ReactDOM from 'react-dom';
 
 import { ChakraProvider } from '@chakra-ui/react'
 import { myTheme } from './myTheme';
 import "leaflet/dist/leaflet.css";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
     <ChakraProvider theme={myTheme}>
         <App />
-    </ChakraProvider>
-);
+    </ChakraProvider>,
+    document.getElementById('root')
+  );
+
 
