@@ -4,7 +4,7 @@ import { Flex, Button, Link, Text } from '@chakra-ui/react'
 //comps
 import HotelInfo from './HotelInfo'
 import HotelDesc from './HotelDesc'
-//import HotelMap from './HotelMap'
+import HotelMap from './HotelMap'
 import RoomComp from './RoomComp'
 import HotelPics from './HotelPics'
 
@@ -48,8 +48,7 @@ export default function CardComp({hotel, login}){
 
 			{/* Map */}
 			{ tab==='map' &&
-				<Text>hola</Text>
-				//<HotelMap position={[43.505, -0.09]} />
+				<HotelMap position={[43.505, -0.09]} />
 			}
 			{/* Pics */}
 			{ tab==='pics' &&
