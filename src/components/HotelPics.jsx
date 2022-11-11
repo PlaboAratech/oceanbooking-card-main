@@ -6,7 +6,7 @@ export default function HotelPics({images}){
     return(
         <Carousel showStatus={false} showThumbs={false}>
             {images?.map((image)=>
-                <Image src={image} />
+                <Image key={image} src={image} />
             )}        
         </Carousel>
     )
